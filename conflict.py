@@ -1,1 +1,1 @@
-val = 'from C5'
+val = 'merged C3 and C5'
